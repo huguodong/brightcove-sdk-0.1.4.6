@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\QuickStart.Player.XamarinAndroid.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\Brightcove.Bindings.XamarinAndroid.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\System.Core.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\System.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\brightcove-sdk-0.1.4.6\samples\Brightcove.Samples\Samples.Android\QuickStart.Player.XamarinAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
